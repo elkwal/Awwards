@@ -9,6 +9,7 @@ class ProjectForm(forms.ModelForm):
 class ProfileForm(forms.ModelForm):
     class Meta:
         model = Profile
+        
         exclude = ['profile']
 class VoteForm(forms.ModelForm):
     class Meta:
