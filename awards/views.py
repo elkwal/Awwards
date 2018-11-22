@@ -9,11 +9,11 @@ from rest_framework.views import APIView
 from .serializer import ProjectSerializer, ProfileSerializer
 
 # Create your views here.
-@login_required(login_url='/accounts/login/')
+# @login_required(login_url='/accounts/login/')
 def index(request):
     current_user = request.user
-    projects = Project.get_all()
-    return render(request,'index.html',{'projects':projects})
+    # projects = Project.get_all()
+    return render(request,'index.html')
 
 def project(request,project_id):
     project = Project.objects.get(id = project_id)
