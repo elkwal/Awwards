@@ -14,5 +14,4 @@ class ProfileForm(forms.ModelForm):
 class VoteForm(forms.ModelForm):
     class Meta:
         model = Project
-        
         exclude = ['link','description','profile','image','title']
