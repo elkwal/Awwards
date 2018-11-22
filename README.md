@@ -24,7 +24,7 @@ For more information contact +25450995069 or Email me elukwal3@gmail.com
 
 
 ## Link to live website.
-Awwards-Website (https://awward001.herokuapp.com/)
+Awwards-Website (https://awwards-sylvia.herokuapp.com/)
 
 
 ### License.
