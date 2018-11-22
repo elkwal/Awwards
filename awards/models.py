@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 from tinymce.models import HTMLField
 
 # Create your models here.
+
 class Project(models.Model):
     title = models.CharField(max_length = 50)
     image = models.ImageField(upload_to = 'projects/')
