@@ -1,7 +1,5 @@
 # AWWARDS
 
-#### Awward Application, 20/9/2018.
-
 #### By **Sylvia Elukwal**
 
 ## Description.
