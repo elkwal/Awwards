@@ -3,7 +3,7 @@
 #### By **Sylvia Elukwal**
 
 ## Description.
-This is awward application that helps users to post there project and other users can rate on them. Before before a user is able to post he/she project is required to sign up .Also one is able to add profile and he/she can see his/her profile.
+This is awward application that helps users to post there project and other users can rate on them. Before a user is able to post he/she project is required to sign up .Also one is able to add profile and he/she can see his/her profile.
 
 ## Setup/Installation Requirements.
 * Make sure the computer has atom .
@@ -11,7 +11,7 @@ This is awward application that helps users to post there project and other user
 * Python has been used to form this application.
 
 ## Known Bugs.
-there are no know Bugs in this web page.
+there are no known Bugs in this web page.
 
 ## Technologies Used in creating the dice game.
 * python
